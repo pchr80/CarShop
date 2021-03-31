@@ -1,0 +1,20 @@
+<root>
+  <dane>
+    <Regon>140448284</Regon>
+    <Nip>1070004920</Nip>
+    <StatusNip />
+    <Nazwa>DELTA AIR LINES, INC. (SPÓŁKA AKCYJNA) ODDZIAŁ W POLSCE W LIKWIDACJI</Nazwa>
+    <Wojewodztwo>MAZOWIECKIE</Wojewodztwo>
+    <Powiat>m. st. Warszawa</Powiat>
+    <Gmina>Śródmieście</Gmina>
+    <Miejscowosc>Warszawa</Miejscowosc>
+    <KodPocztowy>00-078</KodPocztowy>
+    <Ulica>ul. Test-Krucza</Ulica>
+    <NrNieruchomosci>1</NrNieruchomosci>
+    <NrLokalu />
+    <Typ>P</Typ>
+    <SilosID>6</SilosID>
+    <DataZakonczeniaDzialalnosci>2014-06-12</DataZakonczeniaDzialalnosci>
+    <MiejscowoscPoczty>Warszawa</MiejscowoscPoczty>
+  </dane>
+</root>

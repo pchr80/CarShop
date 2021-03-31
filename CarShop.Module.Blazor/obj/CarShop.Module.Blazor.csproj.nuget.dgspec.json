@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module.Blazor\\CarShop.Module.Blazor.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module.Blazor\\CarShop.Module.Blazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module.Blazor\\CarShop.Module.Blazor.csproj",
+        "projectName": "CarShop.Module.Blazor",
+        "projectPath": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module.Blazor\\CarShop.Module.Blazor.csproj",
+        "packagesPath": "C:\\Users\\Piotr\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module.Blazor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\CarShop.Module.csproj": {
+                "projectPath": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\CarShop.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.ExpressApp.Blazor": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.Persistent.BaseImpl": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\CarShop.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\CarShop.Module.csproj",
+        "projectName": "CarShop.Module",
+        "projectPath": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\CarShop.Module.csproj",
+        "packagesPath": "C:\\Users\\Piotr\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\praca\\blazor\\CarShop\\CarShop.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.ExpressApp.Objects": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "DevExpress.Persistent.BaseImpl": {
+              "target": "Package",
+              "version": "[20.2.4, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "WcfCoreMtomEncoderV2": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CarShop">
+  <BOModel>
+    <Class Name="CarShop.Module.BusinessObjects.Company.Order">
+      <OwnMembers>
+        <Member Name="Car" LookupProperty="" DataSourceProperty="" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
